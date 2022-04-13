@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Michaluj
-- 👀 I’m interested in coding and computers
-- 🌱 I’m currently learning about Azure technologies
+- 👀 I’m interested in coding, networking and computers
 - LinkedIn: https://www.linkedin.com/in/michal-adam-784b8522b/
